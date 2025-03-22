@@ -137,7 +137,6 @@ pandas==2.1.4
 pandocfilters==1.5.1
 paramiko==2.9.3
 parso==0.8.3
-patsy==1.0.1
 pdfminer.six==20221105
 pdfplumber==0.10.3
 pexpect==4.8.0
@@ -208,7 +207,6 @@ srsly==2.4.8
 st-annotated-text==4.0.1
 st-theme==1.2.3
 stack-data==0.6.3
-statsmodels==0.14.4
 streamlit==1.41.1
 streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.2
